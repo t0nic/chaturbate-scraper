@@ -1,0 +1,15 @@
+C:\Users\zer0\source\repos\chaturbate-scraper\chaturbate-scraper\obj\Debug\chaturbate-scraper.csprojAssemblyReference.cache
+C:\Users\zer0\source\repos\chaturbate-scraper\chaturbate-scraper\obj\Debug\chaturbate-scraper.csproj.CoreCompileInputs.cache
+C:\Users\zer0\source\repos\chaturbate-scraper\chaturbate-scraper\bin\Debug\chaturbate-scraper.exe.config
+C:\Users\zer0\source\repos\chaturbate-scraper\chaturbate-scraper\bin\Debug\chaturbate-scraper.exe
+C:\Users\zer0\source\repos\chaturbate-scraper\chaturbate-scraper\bin\Debug\chaturbate-scraper.pdb
+C:\Users\zer0\source\repos\chaturbate-scraper\chaturbate-scraper\bin\Debug\HtmlAgilityPack.dll
+C:\Users\zer0\source\repos\chaturbate-scraper\chaturbate-scraper\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\zer0\source\repos\chaturbate-scraper\chaturbate-scraper\bin\Debug\HtmlAgilityPack.xml
+C:\Users\zer0\source\repos\chaturbate-scraper\chaturbate-scraper\obj\Debug\chaturbate-scraper.csproj.CopyComplete
+C:\Users\zer0\source\repos\chaturbate-scraper\chaturbate-scraper\obj\Debug\chaturbate-scraper.exe
+C:\Users\zer0\source\repos\chaturbate-scraper\chaturbate-scraper\obj\Debug\chaturbate-scraper.pdb
+C:\Users\zer0\source\repos\chaturbate-scraper\chaturbate-scraper\bin\Debug\chaturbate-scraper.exe.manifest
+C:\Users\zer0\source\repos\chaturbate-scraper\chaturbate-scraper\bin\Debug\chaturbate-scraper.application
+C:\Users\zer0\source\repos\chaturbate-scraper\chaturbate-scraper\obj\Debug\chaturbate-scraper.exe.manifest
+C:\Users\zer0\source\repos\chaturbate-scraper\chaturbate-scraper\obj\Debug\chaturbate-scraper.application
